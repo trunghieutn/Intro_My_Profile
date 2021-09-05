@@ -1,0 +1,12 @@
+  Hello, I’m Hieu 
+  Welcome to my profile !
+About :
+   - Informations  
+•	I am a  new bie developer (I am 14 years old) . I have join some contest in codeforce .
+•	I have studied some course about c++, python, java and some git and github videos. 
+   - Language ??????
+•	C++
+•	Python
+•	Java
+•	Git
+
